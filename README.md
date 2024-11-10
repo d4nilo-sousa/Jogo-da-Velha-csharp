@@ -38,7 +38,3 @@ Após iniciar a aplicação, você verá a interface do jogo:
 - Botão de reset: limpa o conteúdo dos botões e reinicia o jogo.
 - Painel de pontuação: exibe a quantidade de pontos do jogador X, do jogador O e o número de empates.
 
-# Funções principais:
-O código abaixo mostra como o turno dos jogadores é gerenciado. Ao clicar em um botão, ele verifica se é a vez do jogador 'X' ou 'O' e atualiza o estado:
-
-
