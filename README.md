@@ -4,6 +4,7 @@ Este é um mini projeto que fiz em c#, um jogo da velha básico, onde é necess�
 ### Estrutura do Jogo da Velha (Array 3x3)
 - O jogo da velha é representado por um array 3x3. Cada posição do array é associada a um botão no jogo, e a checagem de vitória é realizada verificando as linhas, colunas e diagonais desse array.
 - Abaixo está a representação do array 3x3, onde cada número representa a posição da célula:
+  
 ![array 3x3](https://github.com/user-attachments/assets/9113cb70-940b-4f8f-976c-5623c7038489)
 
 ### Checagem de Vitória
