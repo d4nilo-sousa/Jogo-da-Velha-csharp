@@ -1,0 +1,10 @@
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\bin\Debug\Jogo-da-Velha-csharp.exe.config
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\bin\Debug\Jogo-da-Velha-csharp.exe
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\bin\Debug\Jogo-da-Velha-csharp.pdb
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo-da-Velha-csharp.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo_da_Velha_csharp.Form1.resources
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo_da_Velha_csharp.Properties.Resources.resources
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo-da-Velha-csharp.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo-da-Velha-csharp.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo-da-Velha-csharp.exe
+C:\Users\danil\Downloads\Jogo-da-Velha\Jogo-da-Velha-csharp\Jogo-da-Velha-csharp\obj\Debug\Jogo-da-Velha-csharp.pdb
